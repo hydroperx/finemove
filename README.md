@@ -44,3 +44,12 @@ The automobile may perform one of the following combinations:
 * DOWN-RIGHT (SOUTHEAST)
 
 The automobile moves smoothly or abruptly to that combination's direction according to key pressure.
+
+## Performing a Drift
+
+The automobile is a box into a larger circunference which is partitioned into 4 parts, forming 4 triangles each with a uniform curved hypotenuse side.
+
+How the automobile moves depends in its box rotation (commonly in degrees); the pressed combination causes:
+
+* the automobile's box to rotate (either clockwise, counter clockwise, or inertia);
+* the $x, y$ coordinates each change according to simple trigonometric functions.
