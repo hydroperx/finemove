@@ -12,5 +12,16 @@ Click the following picture to watch the Smart Move:
 
 [![image](https://github.com/user-attachments/assets/1c946ffa-03e6-4559-9e9e-db0fbfe9737f)](https://m.youtube.com/watch?v=e1iCEF_LlP8)
 
-
 </p>
+
+## 2D coordinates
+
+* $x = horizontal position from -Infinity to zero to +Infinity$
+* $y = vertical position from -Infinity to zero to +Infinity$
+* $w = rotation percentage from -Infinity to zero to +Infinity$
+
+The rotation ($w$) is often expressed as degrees (0, 45, 90, 180, 360, ...).
+
+* 90° degrees means *lie to the next side*.
+* 180° degrees means *lie to the bottom*.
+* 360° degrees is the identity rotation, viewed the same way as 0° degrees.
