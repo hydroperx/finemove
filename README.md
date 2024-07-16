@@ -18,10 +18,12 @@ Click the following picture to watch the Smart Move:
 
 * $x = \text{horizontal position from -Infinity to zero to +Infinity}$
 * $y = \text{vertical position from -Infinity to zero to +Infinity}$
-* $w = \{rotation ratio (percentage, radians, or degrees) from -Infinity to zero to +Infinity}$
+* $w = \text{rotation ratio (percentage, radians, or degrees) from -Infinity to zero to +Infinity}$
 
 The rotation ($w$) is often expressed as degrees (0, 45, 90, 180, 360, ...).
 
 * 90° degrees means *lie to the next side*.
 * 180° degrees means *lie to the bottom*.
 * 360° degrees is the identity rotation, viewed the same way as 0° degrees.
+
+A rotation changes either in the clockwise direction, or in the counter clockwise direction, or is in inertia.
