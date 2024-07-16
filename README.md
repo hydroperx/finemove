@@ -27,3 +27,20 @@ The rotation ($w$) is often expressed as degrees (0, 45, 90, 180, 360, ...).
 * 360° degrees is the identity rotation, viewed the same way as 0° degrees.
 
 A rotation changes either in the clockwise direction, or in the counter clockwise direction, or is in inertia.
+
+## Keyboard Layout
+
+For the Smart Move, just 4 arrows are enough, positioned as in the following picture.
+
+![image](https://github.com/user-attachments/assets/68e2c81e-960f-4eb8-8946-4894aacdbb5c)
+
+The automobile may perform one of the following combinations:
+
+* UP (NORTH)
+* UP-LEFT (NORTHWEST)
+* UP-RIGHT (NORTHEAST)
+* DOWN (SOUTH)
+* DOWN-LEFT (SOUTHWEST)
+* DOWN-RIGHT (SOUTHEAST)
+
+The automobile moves smoothly or abruptly to that combination's direction according to key pressure.
