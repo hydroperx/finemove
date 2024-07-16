@@ -18,7 +18,7 @@ Click the following picture to watch the Smart Move:
 
 * $x = \text{horizontal position from -Infinity to zero to +Infinity}$
 * $y = \text{vertical position from -Infinity to zero to +Infinity}$
-* $w = \{rotation percentage from -Infinity to zero to +Infinity}$
+* $w = \{rotation ratio (percentage, radians, or degrees) from -Infinity to zero to +Infinity}$
 
 The rotation ($w$) is often expressed as degrees (0, 45, 90, 180, 360, ...).
 
