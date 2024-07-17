@@ -49,6 +49,8 @@ The automobile moves smoothly or abruptly to that combination's direction accord
 
 The automobile is a box into a larger circunference which is partitioned into 4 parts, forming 4 triangles each with a uniform curved hypotenuse side.
 
+![image](https://github.com/user-attachments/assets/72b02679-dc2f-40b2-aa48-d3f208c213c6)
+
 How the automobile moves depends in its box rotation (commonly in degrees); the pressed combination causes:
 
 * the automobile's box to rotate (either clockwise, counter clockwise, or inertia);
