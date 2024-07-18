@@ -2,10 +2,6 @@
 
 Controlling a 2D automobile with just 4 arrow keys.
 
-![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7c3b69bc-4b20-47af-b3c2-3defa3e34060/dhs4fha-043d0bf7-6b1f-4bca-a6bc-bfe3dd628ac2.png/v1/fit/w_512,h_512,q_70,strp/the_car__the_shark__drift_by_hydroper_dhs4fha-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvN2MzYjY5YmMtNGIyMC00N2FmLWIzYzItM2RlZmEzZTM0MDYwXC9kaHM0ZmhhLTA0M2QwYmY3LTZiMWYtNGJjYS1hNmJjLWJmZTNkZDYyOGFjMi5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.l8g9xUkyMeixj1iCFLQ5tLiL6VNZkvx_uugt_x21vFA)
-
-</p>
-
 ## 2D coordinates
 
 * $x = \text{horizontal position from -Infinity to zero to +Infinity}$
