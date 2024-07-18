@@ -43,3 +43,18 @@ How the automobile moves depends in its box rotation (commonly in degrees); the 
 
 * the automobile's box to rotate (either clockwise, counter clockwise, or inertia);
 * the $x, y$ coordinates each change according to simple trigonometric functions.
+
+## Sine, cosine, and tangent
+
+![image](https://github.com/user-attachments/assets/d0d098d5-3691-42b5-b222-e1bea8aaecf4)
+
+The mathematical $sin$, $cos$, and $tan$ functions take an angle and yield a ratio of one of the sides of an abstract triangle inside one of the 4 slices of the circunference that matches the given angle. These functions are used for moving an automobile, for example.
+
+* The adjacent side is the one that is preceded by the hypotenuse and followed by the opposite side (the starting side).
+* $sin$ = the ratio of the opposite side to the hypotenuse ("SOH")
+* $cos$ = the ratio of the adjacent side to the hypotenuse ("CAH")
+* $tan$ = the ratio of the opposite side to the adjacent side ("TOA"). Tangent goes from the opposite side next to the hypotenuse and finishes at the adjacent side next to the hypotenuse.
+
+The ratio is usually a decimal from 0 to 1 (for example: 0, 0.5, 1).
+
+The function takes the angle either in degrees or radians.
