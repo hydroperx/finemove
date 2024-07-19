@@ -50,7 +50,7 @@ How the automobile moves depends in its box rotation (commonly in degrees); the 
 
 The mathematical $sin$, $cos$, and $tan$ functions take an angle and yield a ratio of one of the sides of an abstract triangle inside one of the 4 slices of the circunference that matches the given angle. These functions are used for moving an automobile, for example.
 
-* The adjacent side is the one that is preceded by the hypotenuse and followed by the opposite side (the starting side).
+* The adjacent side is the one that is preceded by the hypotenuse and followed by the opposite side; it is often the starting side.
 * $sin$ = the ratio of the opposite side to the hypotenuse ("SOH")
 * $cos$ = the ratio of the adjacent side to the hypotenuse ("CAH")
 * $tan$ = the ratio of the opposite side to the adjacent side ("TOA"). Tangent goes from the opposite side next to the hypotenuse and finishes at the adjacent side next to the hypotenuse.
