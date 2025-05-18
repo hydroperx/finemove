@@ -1,4 +1,4 @@
-# Smart-Move
+# Fine-Move
 
 Controlling a 2D automobile with just 4 arrow keys.
 
@@ -18,7 +18,7 @@ A rotation changes either in the clockwise direction, or in the counter clockwis
 
 ## Keyboard Layout
 
-For the Smart Move, just 4 arrows are enough, positioned as in the following picture.
+For the Fine Move, just 4 arrows are enough, positioned as in the following picture.
 
 ![image](https://github.com/user-attachments/assets/68e2c81e-960f-4eb8-8946-4894aacdbb5c)
 
